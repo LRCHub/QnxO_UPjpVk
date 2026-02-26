@@ -1,0 +1,128 @@
+{
+  "version": 1,
+  "base_track": "Friend Of Mine (feat. Vargas & Lagola)",
+  "base_artist": "Avicii",
+  "createdAt": "2026-02-26T11:57:32.041304Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Friend Of Mine [feat. Vargas & Lagola]",
+      "artist": "Avicii",
+      "has_synced": true,
+      "path": "select/01_Friend_Of_Mine_[feat._Vargas_&_Lagola]_Avicii.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Friend Of Mine (feat. Vargas & Lagola)",
+      "artist": "Avicii",
+      "has_synced": true,
+      "path": "select/02_Friend_Of_Mine_(feat._Vargas_&_Lagola)_Avicii.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "Friend Of Mine (feat. Vargas",
+      "artist": "Avicii",
+      "has_synced": true,
+      "path": "select/03_Friend_Of_Mine_(feat._Vargas_Avicii.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "Friend Of Mine (feat. Vargas & Lagola)",
+      "artist": "Avicii",
+      "has_synced": true,
+      "path": "select/04_Friend_Of_Mine_(feat._Vargas_&_Lagola)_Avicii.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "Friend Of Mine (feat. Vargas & Lagola)",
+      "artist": "Avicii",
+      "has_synced": true,
+      "path": "select/05_Friend_Of_Mine_(feat._Vargas_&_Lagola)_Avicii.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "Friend of Mine feat. Vargas & Lagola",
+      "artist": "Avicii",
+      "has_synced": true,
+      "path": "select/06_Friend_of_Mine_feat._Vargas_&_Lagola_Avicii.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "Friend Of Mine (Feat. Vargas / Lagola)",
+      "artist": "Avicii",
+      "has_synced": true,
+      "path": "select/07_Friend_Of_Mine_(Feat._Vargas___Lagola)_Avicii.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "Friend Of Mine (feat. Vargas & Lagola)",
+      "artist": "Avicii, Vargas & Lagola",
+      "has_synced": true,
+      "path": "select/08_Friend_Of_Mine_(feat._Vargas_&_Lagola)_Avicii,_Vargas_&_Lagola.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "Friend Of Mine (feat. Vargas & Lagola)",
+      "artist": "Avicii, Vargas & Lagola",
+      "has_synced": true,
+      "path": "select/09_Friend_Of_Mine_(feat._Vargas_&_Lagola)_Avicii,_Vargas_&_Lagola.lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "Friend Of Mine (feat. Vargas & Lagola)",
+      "artist": "Avicii feat. Vargas & Lagola",
+      "has_synced": true,
+      "path": "select/10_Friend_Of_Mine_(feat._Vargas_&_Lagola)_Avicii_feat._Vargas_&_Lagola.lrc"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "Friend Of Mine (feat. Vargas & Lagola) [Original Mix]",
+      "artist": "Avicii",
+      "has_synced": true,
+      "path": "select/11_Friend_Of_Mine_(feat._Vargas_&_Lagola)_[Original_Mix]_Avicii.lrc"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "Friend Of Mine (feat. Vargas & Lagola)",
+      "artist": "Avicii feat. Vargas & Lagola",
+      "has_synced": true,
+      "path": "select/12_Friend_Of_Mine_(feat._Vargas_&_Lagola)_Avicii_feat._Vargas_&_Lagola.lrc"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "Friend of Mine (feat. Vargas & Lagola)",
+      "artist": "Avicii; Vargas; Lagola",
+      "has_synced": true,
+      "path": "select/13_Friend_of_Mine_(feat._Vargas_&_Lagola)_Avicii;_Vargas;_Lagola.lrc"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "Friend Of Mine [feat. Vargas & Lagola]",
+      "artist": "Avicii feat. Vargas & Lagola",
+      "has_synced": true,
+      "path": "select/14_Friend_Of_Mine_[feat._Vargas_&_Lagola]_Avicii_feat._Vargas_&_Lagola.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "Friend of Mine (feat. Vargas & Lagola)",
+      "artist": "アヴィーチー",
+      "has_synced": false,
+      "path": "select/pl_01_Friend_of_Mine_(feat._Vargas_&_Lagola)_アヴィーチー.txt"
+    }
+  ]
+}
