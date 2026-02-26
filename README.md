@@ -1,0 +1,39 @@
+# Avicii – Friend Of Mine (feat. Vargas & Lagola)
+
+> **歌詞登録ステータス：同期歌詞あり**
+
+```lrc
+[00:08.62] Hey, do you remember we said "Hello"
+[00:15.52] And you asked me about my Levi's T-shirt
+[00:19.88] Said "You are a friend of mine"
+[00:25.97] My, oh my
+[00:28.54] You must have saved me 'bout a thousand times
+[00:32.67] I wouldn't be the one I am today
+[00:37.36] If you hadn't been a friend of mine
+[00:54.86] 
+[00:43.04] I ain't misbehaving, I'm just telling you the truth
+[00:47.30] Take my love for granted
+[00:49.66] Yeah, I'd give it all to you
+[00:51.71] Make me count for something
+[00:53.97] Yeah, I feel it in my heart
+[00:55.93] God only knows what I'd have been
+[00:58.68] If you hadn't been a friend of mine
+[01:16.18] 
+[01:14.22] Hey! I haven't seen 'round since high school (High school)
+[01:20.94] How you doing, do you still remember me?
+[01:25.42] Are you still a friend of mine?
+[01:28.21] Guess you're still a friend of mine
+[01:30.06] Guess you're still a friend of mine
+[01:31.86] Now I see (I see), why I get nervous when you look at me
+[01:37.95] It's like your eyes are trying to tell me something
+[01:42.61] That you're more than just a friend of mine
+[01:45.17] That you're more than just a friend of mine, oh my
+[02:10.17] 
+[01:48.62] I ain't misbehaving, I'm just telling you the truth
+[01:52.79] Take my love for granted
+[01:54.93] Yeah, I'd give it all to you
+[01:57.02] Make me count for something
+[01:59.37] Yeah, I feel it in my heart
+[02:01.29] God only knows what I'd have been
+[02:04.00] If you hadn't been a friend of mine
+```
